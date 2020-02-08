@@ -13,5 +13,5 @@ Windwos10、GoogleChromeを利用した環境でキャプチャして作成し�
 
 仮想アプライアンス版のインストール手順と管理する機器の追加手順を紹介します。
 
-1. [Cisco Prime Infrastructure 3.2 Install](https://github.com/kenchiman/Cisco-Prime-Infrastructure/install)
-2. [Cisco Prime Infrastructure 3.2 Setup](https://github.com/kenchiman/Cisco-Prime-Infrastructure/first-setup)
+1. [Cisco Prime Infrastructure 3.2 Install](https://github.com/kenchiman/Cisco-Prime-Infrastructure/tree/master/install)
+2. [Cisco Prime Infrastructure 3.2 Setup](https://github.com/kenchiman/Cisco-Prime-Infrastructure/tree/master/first-setup)
